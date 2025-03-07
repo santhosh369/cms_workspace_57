@@ -1,0 +1,15 @@
+{
+  "type" : "sfdc_cms__image",
+  "title" : "image 1",
+  "contentBody" : {
+    "sfdc_cms:media" : {
+      "source" : {
+        "mimeType" : "image/png",
+        "ref" : "0sNxx00000002GLEAY",
+        "type" : "file",
+        "size" : 1682617
+      }
+    }
+  },
+  "urlName" : "image-1"
+}
