@@ -2,7 +2,7 @@
   "type" : "sfdc_cms__news",
   "title" : "news content 1",
   "contentBody" : {
-    "body" : "<div>news content 1</div>"
+    "body" : "<div>news content 1 - updated</div>"
   },
   "urlName" : "news-content-1"
 }
